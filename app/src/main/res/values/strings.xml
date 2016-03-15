@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Edit Note</string>
+    <string name="textStyle">textStyle</string>
+    <string name="textSize">textSize</string>
+
+    <string name="text_clean">Очищено</string>
+    <string name="text_saved">Збережено</string>
+    <string name="create_file">Введіть назву файла</string>
+    <string name="delete_file">Видалити</string>
+
+    <string name="text_normal">Звичайний</string>
+    <string name="text_bold">Напівжирної</string>
+    <string name="text_italic">Курсив</string>
+    <string name="text_both">Напівжирної + Курсив</string>
+
+    <string name="color_black">Чорний</string>
+    <string name="color_blue">Синій</string>
+    <string name="color_red">Червоний</string>
+    <string name="color_green">Зелений</string>
+    <string name="pref_start_prog">ЗАПУСК ПРОГРАМИ</string>
+    <string name="pref_start_summary">Відкрити файл при запуску програми</string>
+    <string name="pref_start_title">Запуск</string>
+    <string name="pref_text_style">НАЛАШТУВАННЯ ШРИФТА</string>
+    <string name="pref_text_size_title">Розмір шрифта</string>
+    <string name="pref_text_size_dialog">Введіть розмір шрифта (від 10 до 30)</string>
+    <string name="pref_text_summary">Встановлює розмір шрифта</string>
+    <string name="pref_style_dialog">Виберіть свій стиль</string>
+    <string name="pref_style_summary">Встановлює стиль тексту</string>
+    <string name="pref_style_title">Стиль текста</string>
+    <string name="pref_text_color_summary">Встановлює колір тексту</string>
+    <string name="pref_text_color_title">Колір тексту</string>
+    <string name="pref_color_black_summary">Встановлює чорний колір</string>
+    <string name="pref_color_blue_summary">Встановлює чорний синій</string>
+    <string name="pref_color_red_summary">Встановлює чорний червоний</string>
+    <string name="pref_color_green_summary">Встановлює чорний зелений</string>
+
+    <string name="menu_setting">Налаштування</string>
+    <string name="menu_save">Зберегти</string>
+    <string name="menu_open">Відкрити</string>
+    <string name="menu_clean">Очистити</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
