@@ -1,3 +1,3 @@
 # TestKotlin
 
-It is a text editor, written in Kotlin
+It is a text editor, written on Kotlin
